@@ -116,15 +116,16 @@ a {
     font-size: 20px;
     line-height: 120%;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #2e2f42;
+}
+.team-cards {
+    background-color: #fff;
 }
 .team-text {
     font-weight: 400;
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #434455;
 }
 .portfolio-section {
@@ -141,7 +142,7 @@ a {
     font-size: 20px;
     line-height: 120%;
     letter-spacing: 0.02em;
-    color: var(--navy-blue);
+    color: #2e2f42;
 }
 .portfolio-text {
     font-weight: 400;
