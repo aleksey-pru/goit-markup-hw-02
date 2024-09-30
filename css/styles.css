@@ -28,7 +28,6 @@ a {
     color: #2e2f42;
 }
 .nav-link {
-    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 150%;
@@ -40,7 +39,6 @@ a {
     color: #404bbf;
 }
 .address-link {
-    font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 150%;
@@ -56,7 +54,6 @@ a {
     background-color: #2e2f42;
 }
 .h1-solution {
-    font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 56px;
     line-height: 107%;
@@ -65,7 +62,6 @@ a {
     color: #fff;
 }
 .order-button {
-    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 150%;
@@ -89,7 +85,6 @@ a {
     color: #2e2f42;
 }
 .h3-features {
-    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 20px;
     line-height: 120%;
@@ -97,7 +92,6 @@ a {
     color: #2e2f42;
 }
 .features-text {
-    font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 150%;
@@ -108,7 +102,6 @@ a {
     background-color: #f4f4fd;
 }
 .h1-team {
-    font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 36px;
     line-height: 111%;
@@ -123,7 +116,6 @@ a {
     height: 380px;
 }
 .h3-names {
-    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 20px;
     line-height: 120%;
@@ -132,11 +124,60 @@ a {
     color: #2e2f42;
 }
 .team-text {
-    font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
+}
+.portfolio {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 111%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
+.h3-portfolio { 
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    letter-spacing: 0.02em;
+    color: var(--navy-blue);
+}
+.portfolio-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.footer {
+    background-color: #2e2f42;
+}
+.footer-logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 117%;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+.footer-studio {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 117%;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #f4f4fd;
+}
+.footer-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
 }
